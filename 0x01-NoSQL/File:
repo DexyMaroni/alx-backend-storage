@@ -1,2 +1,0 @@
-// all documents in  school db
-db.school.find()
